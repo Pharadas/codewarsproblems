@@ -1,1 +1,1 @@
-a few of the codewars problems i've wolved with a test case
+A few of the codewars problems i've solved with a test case
